@@ -1,0 +1,24 @@
+* {
+    font-family: sans-serif;
+}
+.definición-título {
+    font-weight: bold;
+}
+.lista-axiomas li{
+    margin-top: 2em;
+}
+
+.proposición1 {
+    background-color: #fc5c65;
+}
+.proposición2 {
+    background-color: #fd9644;
+}
+.proposiciones {
+     display: flex;
+     align-items: flex-start;
+     flex-wrap: wrap;
+}
+.proposiciones details {
+    font-size: 30px;
+}
