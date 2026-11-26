@@ -1,0 +1,35 @@
+* {
+    font-family: sans-serif;
+}
+h1 {
+    text-align: center;
+}
+.definición-título {
+    font-weight: bold;
+}
+.lista-axiomas li{
+    margin-top: 2em;
+    margin-left: 1em;
+}
+
+.proposición1 {
+    background-color: #fc5c65;
+}
+.proposición2 {
+    background-color: #fd9644;
+}
+.proposición3 {
+    background-color: #fed330;
+}
+.proposición4 {
+    background-color: #26de81;
+}
+.proposición5 {
+    background-color: #2bcbba;
+}
+.proposiciones {
+     display: grid;
+}
+.proposiciones details {
+    font-size: 35px;
+}
